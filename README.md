@@ -67,18 +67,6 @@ The dataset is located in the [`data/`](./data) folder and includes:
 
 ---
 
-## ✅ Results
-
-| Model          | Accuracy |
-|----------------|----------|
-| Random Forest  | ~80-85%  |
-| XGBoost        | ~85-87%  |
-| LightGBM       | ~85-87%  |
-
-> Metrics may vary depending on random seed and data splits.
-
----
-
 ## 🚀 Improvements & Extensions
 - Hyperparameter tuning (`GridSearchCV`)
 - Model calibration for better probability estimation
