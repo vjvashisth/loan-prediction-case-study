@@ -41,6 +41,16 @@ The dataset is located in the [`data/`](./data) folder and includes:
 - Visualized loan approvals by income, loan amount, and property area.
 - Checked correlations between variables.
 
+![image](https://github.com/user-attachments/assets/46e3e951-109a-4aa9-90b8-a213159ce240)
+
+![image](https://github.com/user-attachments/assets/d68f6390-393f-49bd-80b6-634252ff1ee0)
+
+![image](https://github.com/user-attachments/assets/fff50c97-1bae-4cc1-8d25-eeac6710c0ca)
+
+![image](https://github.com/user-attachments/assets/38513266-7381-436a-b5d1-389828a100e1)
+
+![image](https://github.com/user-attachments/assets/8b647f2f-4ff5-4f01-b094-b2d02ca6a18f)
+
 ### 🔹 Step 4: Class Imbalance Handling
 - Used `SMOTE` to oversample minority class.
 
@@ -48,8 +58,12 @@ The dataset is located in the [`data/`](./data) folder and includes:
 - Trained `RandomForestClassifier` as base model.
 - Evaluated using Accuracy, Precision, Recall, F1 Score.
 
+![image](https://github.com/user-attachments/assets/39410a87-4263-4a9f-952c-d4754cd32a5d)
+
 ### 🔹 Step 6: Boosting Models
 - Trained `XGBoost` and `LightGBM` for better performance.
+
+![image](https://github.com/user-attachments/assets/fe162070-493b-42ca-8db6-3477b50d6428)
 
 ---
 
